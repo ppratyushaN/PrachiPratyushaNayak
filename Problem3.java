@@ -1,3 +1,4 @@
+//Here I am solving the number series program 
 import java.util.Scanner;
 
 public class Problem3 {
@@ -26,3 +27,4 @@ public class Problem3 {
 	}
 
 }
+
